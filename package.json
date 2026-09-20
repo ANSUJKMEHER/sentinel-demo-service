@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Live vulnerable service monitored by Sentinel",
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.17.20",
     "axios": "0.21.1"
   }
 }
